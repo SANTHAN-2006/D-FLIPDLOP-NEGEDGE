@@ -70,4 +70,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the program to implemention of D flipflop using verilog and validating their functionality using their functional tables are executed successfully.
